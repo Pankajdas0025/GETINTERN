@@ -163,6 +163,15 @@ form {
 
 }#form-btn:hover{
 	background-color: green;
+}#conttext{
+	text-shadow: 1px 1px 4px black;
+	animation: AN 4s infinite;
+}@keyframes AN{
+	0%{color: red; }
+	45%{color: darkred;}
+	65%{color: yellow;}
+	85%{color: green}
+	100%{color:black;}
 }
 
 /*Mobile Responsive*/
