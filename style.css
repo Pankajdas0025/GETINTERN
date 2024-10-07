@@ -11,7 +11,7 @@ header{
 	top: 0;
 	width:100%;
 	position: fixed;
-	background-color: darkblue;
+	background-color:darkblue;
 	height:10vh;
 	border-bottom: 2px solid black;
 	align-items: center;
@@ -306,7 +306,7 @@ padding-top: 2px;
 font-size: 35px;
 
 
-}
+}header{background-color:darkblue;
 
 }
 @media screen and (min-width:1850px)
