@@ -110,6 +110,7 @@ background-color: transparent;
 }.subsection1 button:hover{
 	background-color: green;
 	transform: scale(1.05);
+	animation: none;
 }
 .subsection img{
 	height:80vh;
